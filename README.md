@@ -5,7 +5,6 @@
 <h3>If you'd like to support or help fund this project to keep it running, You can make small contibutions. Your support would be greatly appreciated! 🙌 -->
 Thank you for your understanding! 🚀</h3>
 <h3>You all can support me here: <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></h3>
-<h3> Or UPI: satendrakumarparteti@oksbi </h3>
 
 <div align="center">
   <h1 align="center">SAFAR AI</h1 >
